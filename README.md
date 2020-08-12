@@ -1,24 +1,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <!-- <a href="https://github.com/aidankirk617/CataBot"> -->
+    <!-- <a href="https://github.com/aidankirk617/DropSync"> -->
     <img src="images/logo1.jpg" alt="Logo" width="400" height="400">
   </a>
 
-  <h3 align="center">CataBot</h3>
+  <h3 align="center">DropSync</h3>
 
   <p align="center">
-    A modular Discord bot for WCU students
+    Automate Dropbox sync between local and cloud based storage right from your terminal
     <br />
-    <a href="https://github.com/aidankirk617/CataBot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aidankirk617/DropSync"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- Commented out until we have a live demo -->
     <!--<a href="https://github.com/github_username/repo">View Demo</a> -->
     ·
-    <a href="https://github.com/aidankirk617/CataBot/issues">Report Bug</a>
+    <a href="https://github.com/aidankirk617/DropSync/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aidankirk617/CataBot/issues">Request Feature</a>
+    <a href="https://github.com/aidankirk617/DropSync/issues">Request Feature</a>
   </p>
 </p>
 
@@ -30,10 +30,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/aidankirk617/CataBot/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/aidankirk617/CataBot/network/members]
-[![Stargazers][stars-shield]][https://github.com/aidankirk617/CataBot/stargazers]
-[![Issues][issues-shield]][https://github.com/aidankirk617/CataBot/issues]
+[![Contributors][contributors-shield]][https://github.com/aidankirk617/DropSync/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/aidankirk617/DropSync/network/members]
+[![Stargazers][stars-shield]][https://github.com/aidankirk617/DropSync/stargazers]
+[![Issues][issues-shield]][https://github.com/aidankirk617/DropSync/issues]
 [![MIT License][license-shield]][LICENSE.md] 
 
 
@@ -59,17 +59,17 @@
 
 <!--[![Produc Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Catabot is a modular discord bot created to help WCU students navigate their day to day school life with ease.
+DropSync is a modular discord bot created to help WCU students navigate their day to day school life with ease.
 
 New student or old student, it gets very hectic trying to keep up with campus events,
 hours of operation, or even what’s for dinner tonight in the cafeteria. Through a
-simple question command, members of the WCU Computer Science discord can ask Catabot
+simple question command, members of the WCU Computer Science discord can ask DropSync
 any of these questions and get an immediate response. No more internet searches, no
 more looking through the notes section of your phone, and thankfully no more asking 
 strangers on the street for help. That’s called social interaction, and as Computer Science majors,
 we don’t support it.
 
-Catabot also serves as an open source group project between Computer Science 
+DropSync also serves as an open source group project between Computer Science 
 students, utilizing the agile development lifecycle, as well as SCRUM. This
 creates not only an efficient and objective oriented work environment, but
 provides students of WCU the experience of working on a development team before
@@ -78,10 +78,7 @@ our Computer Science education, but also makes way to ease WCU students into the
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Bash Shell]()
 
 
 <!-- GETTING STARTED -->
@@ -89,23 +86,12 @@ our Computer Science education, but also makes way to ease WCU students into the
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/aidankirk617/CataBot.git
-```
-2. Install NPM packages
-```sh
-npm install
+git clone https://github.com/aidankirk617/DropSync.git
 ```
 
 <!-- USAGE EXAMPLES -->
@@ -120,7 +106,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/aidankirk617/CataBot/issues) for a 
+See the [open issues](https://github.com/aidankirk617/DropSync/issues) for a 
 list of proposed features (and known issues).
 
 
@@ -141,25 +127,17 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the ____ License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Aidan Kirk - [aidankirk617@gmail.com]()
 
-Project Link: [https://github.com/aidankirk617/CataBot#built-with](https://github.com/aidankirk617/CataBot#built-with)
+Project Link: [https://github.com/aidankirk617/DropSync#built-with](https://github.com/aidankirk617/DropSync#built-with)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Future Implementations
-
-* [Weekly menu items for cafeteria](https://www.youtube.com/watch?v=C1AauAyQ_wg)
-* [Hours of operation](https://www.youtube.com/watch?v=C1AauAyQ_wg)
-* [Events on campus](https://www.youtube.com/watch?v=C1AauAyQ_wg)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
