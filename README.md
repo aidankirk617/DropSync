@@ -30,11 +30,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/aidankirk617/DropSync/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/aidankirk617/DropSync/network/members]
-[![Stargazers][stars-shield]][https://github.com/aidankirk617/DropSync/stargazers]
-[![Issues][issues-shield]][https://github.com/aidankirk617/DropSync/issues]
-[![MIT License][license-shield]][LICENSE.md] 
+![GitHub All Releases](https://img.shields.io/github/downloads/aidankirk617/DropSync/total) ![GitHub issues](https://img.shields.io/github/issues/aidankirk617/DropSync) ![GitHub](https://img.shields.io/github/license/aidankirk617/DropSync) 
 
 
 <!-- TABLE OF CONTENTS -->
