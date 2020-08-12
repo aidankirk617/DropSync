@@ -2,7 +2,7 @@
 <br />
 <p align="center">
     <!-- <a href="https://github.com/aidankirk617/DropSync"> -->
-    <img src="images/dropbox.png" alt="Logo" width="800" height="400">
+    <img src="images/dropbox.png" alt="Logo" width="800" height="450">
   </a>
 
   <h3 align="center">DropSync</h3>
